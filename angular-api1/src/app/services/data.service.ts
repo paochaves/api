@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
 export class DataService {
   constructor() {}
 
-  API_URL: string = 'https://api-colombia.com/api/v1/Department';
+  API_URL: string = 'https://api-colombia.com/api/v1/TouristicAttraction';
 
   httpClient = inject(HttpClient);
 

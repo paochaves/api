@@ -1,4 +1,27 @@
 p {
-  color: blue;
-  font-size: 32px;
+  color: black;
+  font-size: 10px;
+}
+h1 {
+  font-size: 38px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-bottom: 0;
+  color: #004e88;
+}
+h5 {
+  font-size: 25px;
+}
+h6 {
+  color: gray;
+}
+.card {
+  box-shadow: 2px 2px 2px 1px rgba(32, 32, 32, 0.247);
+  background-color: rgb(247, 243, 225);
+}
+.frace {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+main {
+  margin-top: 80px;
 }
